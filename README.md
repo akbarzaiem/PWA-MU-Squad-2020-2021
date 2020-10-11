@@ -1,6 +1,8 @@
 # PWA-MU-SQUAD-2020-2021
 Submission 1 Progressive Web Apps DICODING
 
+[1. Gambar awal add to home screen ](https://drive.google.com/file/d/1MnxPaQW98pJ6HAFz84Rq26NEh4OLsxCy/view?usp=sharing)<br>
+[2. Gambar add to home screen ](https://drive.google.com/file/d/1YD4ochEVIcOrqexbF0XkQn3EvvwWvtw7/view?usp=sharing)
 
 <p align="center">
   <a href="http://materializecss.com/">
