@@ -1,0 +1,21 @@
+{
+    "name": "Manchester United",
+    "short_name": "Squad MU",
+    "description": "Aplikasi PWA pertama saya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#b71c1c",
+    "theme_color": "#b71c1c",
+    "icons": [
+        {
+            "src": "MU_ICON.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "MU_ICON2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
