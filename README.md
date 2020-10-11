@@ -1,3 +1,7 @@
+# PWA-MU-SQUAD-2020-2021
+Submission 1 Progressive Web Apps DICODING
+
+
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
